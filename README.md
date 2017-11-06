@@ -9,3 +9,7 @@ Copia estos ejemplos en la carpeta correspondiente de tu servidor web o bien
 $ python3 -m http.server
 ```
 4. Abre un navegador y accede a la url http://localhost:8000/
+
+
+También puedes probar los ejemplos online en https://nbarreira.github.io/
+
